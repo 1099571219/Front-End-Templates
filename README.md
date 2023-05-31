@@ -1,8 +1,12 @@
-# Vue 3 + TypeScript + Vite
+# Vue 3 + TypeScript + Vite 模板
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+cli新建项目/直接拉取 后需要优先安装依赖再使用以下功能
 
-## 项目格式化
+## commit 内容校验
+推荐使用 npm run commit/pnpm commit 进行代码提交,有命令行交互式提交类型选择
 
+## prettier 格式化
 需要切换编辑器格式化使用 prettier
 (../prettier.png)
+
+
