@@ -1,6 +1,7 @@
 # Vue 3 + TypeScript + Vite 模板
+vue-diy-cli新建项目/直接拉取 后需要优先安装依赖再使用以下功能
 
-cli新建项目/直接拉取 后需要优先安装依赖再使用以下功能
+
 
 ## commit 内容校验
 推荐使用 npm run commit/pnpm commit 进行代码提交,有命令行交互式提交类型选择
