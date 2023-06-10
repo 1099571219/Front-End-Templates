@@ -5,9 +5,13 @@
 请在新分支中创建模板，之后需要在 main 分支下 templates.json 文件中新增一个对象，key value 都为分支名，cli 会根据 templates 文件内容进行模板选择、拉取
 
 ## vue-ts-vite 模板
+<br />
 自动引入常用 api , 可在 vite.config.ts 中自行扩展
+<br />
 模块化路由 vue-router
+<br />
 prettier 格式化配置，新项目需要先统一格式化配置，可在 prettierrc.cjs 中自行扩展（需要 vscode 安装 prettier 插件配合使用,详细操作查看对应分支）
+<br />
 commit 提交版本名称检查 (feat、style、build ...) 
 
 
